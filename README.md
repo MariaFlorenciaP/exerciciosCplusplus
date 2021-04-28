@@ -1,2 +1,2 @@
 # repositorio exercicios
- Testando gitHub Desktop
+Exercícios desenvolvido em Lógica de Programação no IFSC em C++
